@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratikparade2910
 - 👀 I’m interested in  working for web developement
-- 🌱 I’have currently compleated  MERN SATCK course
+- 🌱 I’have currently compleated  MERN SATCK developement traning
 - 📫 How to reach me Mail- pratikparade@gmail.com
 
 
